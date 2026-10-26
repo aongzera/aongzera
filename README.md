@@ -8,8 +8,6 @@ Computer Engineering student at **Chulalongkorn University**, based in Bangkok.
 - 🛒 **[CU_Marketplace](https://github.com/narumedsr-p/CU_Marketplace)** – 2110521 Software Architecture final project (TypeScript)
 - 🥭 **[MangoDB](https://github.com/taofuuu/MangoDB)** – team project (TypeScript)
 - 🎮 **[CP-fighting](https://github.com/aongzera/CP-fighting)** – top-down metroidvania game in Java/JavaFX, built around OOP concepts and threads
-- 📦 **[parcel-box](https://github.com/aongzera/parcel-box)** – embedded systems final project
-- 🏗️ **[swarch-ai4swarch](https://github.com/aongzera/swarch-ai4swarch)** – exercise in using AI for software architecture (Go)
 
 ## Tech
 
@@ -19,7 +17,3 @@ Computer Engineering student at **Chulalongkorn University**, based in Bangkok.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-
-## Currently
-
-Learning full-stack development by building AutoFlow.
