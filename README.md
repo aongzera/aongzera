@@ -9,6 +9,7 @@ I'm currently interested in software engineering, system design and architecture
 - 🚗 **[AutoFlow](https://github.com/aongzera/autoflow)** – LINE photo router and claim records for a car repair shop (React, Express, Prisma, PostgreSQL)
 - 🛒 **[CU_Marketplace](https://github.com/narumedsr-p/CU_Marketplace)** – 2110521 Software Architecture final project (TypeScript)
 - 🥭 **[MangoDB](https://github.com/taofuuu/MangoDB)** – team project (TypeScript)
+- 💬 **[CompNetChatApp](https://github.com/taofuuu/CompNetChatApp)** – computer networks term project: multi-user chat with private rooms and groups (NestJS, React, Socket.IO)
 - 🎮 **[CP-fighting](https://github.com/aongzera/CP-fighting)** – top-down metroidvania game in Java/JavaFX, built around OOP concepts and threads
 
 ## Tech
