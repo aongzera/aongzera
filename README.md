@@ -1,7 +1,8 @@
 # Hi, I'm Sirawit Longjun 👋
 
-- I'm currently studying Computer Engineering at Chulalongkorn University.
-- I have a strong interest in Backend Development and applied LLM/AI.
+Computer Engineering student at **Chulalongkorn University**, based in Bangkok.
+
+I'm currently interested in software engineering, system design and architecture, and applying LLMs in applications.
 
 ## What I work on
 
